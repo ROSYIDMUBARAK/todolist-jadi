@@ -40,8 +40,8 @@ function App() {
   };
 
   return (
-    <div className="bg-gray-200 w-full h-screen flex items-center">
-      <div className="w-[500px] mx-auto text-center bg-white p-5">
+    <div className="bg-gray-200 h-screen flex items-center justify-center">
+      <div className="w-[500px] mx-auto text-center bg-white p-5 ">
         <h1 className="text-5xl font-bold mb-8">Rosyid Mubarak</h1>
         <p className="text-sm mb-3" style={{ fontSize: '20px' }}>TodoList App</p>
     
